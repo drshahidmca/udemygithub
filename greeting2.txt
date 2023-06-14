@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Working with greetign2
 
 create conflict
 This is papanese file
+=======
+This is papanese file
+
+
+again change
+>>>>>>> japanese
